@@ -7,10 +7,10 @@ This repository contains my Python programming assignments.
 ## Reflection
 ### Question 1
 
-'''
+```
 050c8f3 Add Week 07 functions and README
 bb3fbf4 Complete Lab 10 ecercises and reflections
-'''
+```
 
 My commit history shows that I am organizing my work by assignment and using descriptive messages. If an employer looked at this history, they would see I am learning how to document my progress and keep track of the changes I've made
 
